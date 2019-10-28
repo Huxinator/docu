@@ -44,7 +44,7 @@ Netiquette (5)
 
 * Jedwede Beleidigungen, sofern diese nicht in ein entsprechendes RPG eingebettet sind, sind verboten. Auch das sog. "spammen" und "flamen" ist verboten.
 * Selbiges gilt für das Forum und Discord-Chat. Dort ist den Anweisungen der Moderatoren in jedem Fall Folge zu leisten.
-* Negativ auffallende SpielerInnen können jederzeit vom Spiel ausgeschlossen werden.
+* Negativ auffallende Spieler können jederzeit vom Spiel ausgeschlossen werden.
 
 
 Fairplay (6)
