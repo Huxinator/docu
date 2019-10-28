@@ -1,5 +1,6 @@
 Spielregeln
-===========
+-----------
+-----------
 
 Im folgenden werden die einzelnen Spielregeln für Star Trek Universe aufgelistet, mit denen man sich bei der Registrierung einverstanden erklärt.
 
@@ -9,8 +10,8 @@ Account (1)
 * Erlaubt ist ein Spielaccount pro Person.
 * Das Verwalten, Weitergeben und Übernehmen von Accounts ist nicht erlaubt.
 * Das Erstellen und Nutzen eines weiteren Spielzugangs - egal ob für sich selbst oder für andere - führt zur Löschung aller beteiligter Accounts.
-* Sollten mehrere Personen in einem Haushalt/einer WG leben und einen gemeinsamen Internetzugang nutzen, so sind diese Accounts zu trennen (keinerlei Warentransfers). Als ein Haushalt gelten auch alle Spieler, die über dieselbe IP am Spiel teilnehmen.
-* Zur Registrierung wird ein Registrierungsschlüssel (Key) eines bereits registrierten Spielers benötigt. Der einladende sowie der eingeladene Account befinden sich dann in einer Accountreihe.
+* Sollten mehrere Personen in einem Haushalt/einer WG leben und einen gemeinsamen Internetzugang nutzen, so sind diese Accounts zu trennen (keinerlei Warentransfers). Als ein Haushalt gelten auch alle Spieler/innen, die über dieselbe IP am Spiel teilnehmen.
+* Zur Registrierung wird ein Registrierungsschlüssel (Key) eines/einer bereits registrierten Spielers/Spielerin benötigt. Der einladende sowie der eingeladene Account befinden sich dann in einer Accountreihe.
 
 
 Namen (2)
@@ -39,14 +40,14 @@ Netiquette (5)
 
 * Jedwede Beleidigungen, sofern diese nicht in ein entsprechendes RPG eingebettet sind, sind verboten. Auch das sog. "spammen" und "flamen" ist verboten.
 * Selbiges gilt für das Forum und Discord-Chat. Dort ist den Anweisungen der Moderatoren in jedem Fall Folge zu leisten.
-* Negativ auffallende Spieler können jederzeit vom Spiel ausgeschlossen werden.
+* Negativ auffallende SpielerInnen können jederzeit vom Spiel ausgeschlossen werden.
 
 
 Fairplay (6)
 ------------
 
-* Neue Spieler sollten das Recht bekommen, sich wie jeder andere an das Spiel zu gewöhnen und ihren Account aufbauen zu können. Ungerechtfertigte Angriffe (aber auch Erpressungsversuche, bestehlen ("farmen"), etc) können zur Löschung führen.
-* Es sollte auch vermieden werden, Spieler aus dem Spiel zu "ekeln", sprich Ihnen den Spielspaß durch periodische Angriffe dauerhaft zu zerstören. Dies gilt nicht, wenn betreffende Spieler durch ihr Auftreten diese Aktionen provozieren. Hier wird die Spielleitung Einzelfallprüfungen vornehmen
+* Neue Spieler/innen sollten das Recht bekommen, sich wie jede/r andere an das Spiel zu gewöhnen und ihren/seinen Account aufbauen zu können. Ungerechtfertigte Angriffe (aber auch Erpressungsversuche, bestehlen ("farmen"), etc) können zur Löschung führen.
+* Es sollte auch vermieden werden, Spieler/innen aus dem Spiel zu "ekeln", sprich Ihnen den Spielspaß durch periodische Angriffe dauerhaft zu zerstören. Dies gilt nicht, wenn betreffende Spieler/innen durch ihr Auftreten diese Aktionen provozieren. Hier wird die Spielleitung Einzelfallprüfungen vornehmen
 
 
 NPCs (7)
@@ -58,7 +59,7 @@ NPCs (7)
 Gerichtshof (8)
 ---------------
 
-* Das Gerichtshof-Forum dient dazu, um Regelverstöße öffentlich zu ahnden. Beiträge von Spielern, die in den jeweiligen Themen nicht betroffen sind, führen unweigerlich zu einer Sperrung von mindestens 5 Tagen.
+* Das Gerichtshof-Forum dient dazu, um Regelverstöße öffentlich zu ahnden. Beiträge von Spielern/innen, die in den jeweiligen Themen nicht betroffen sind, führen unweigerlich zu einer Sperrung von mindestens 5 Tagen.
 * Sollte euch jemand bekannt sein, der gegen Regeln verstößt, könnt ihr das im Forum dem Gerichtsdiener melden.
 * Der Betreiber behält es sich vor, jederzeit Accounts aus dem Spiel, dem Forum sowie dem Discord-Chat ohne jeweilige Erwähnung zu löschen.
 * Für das Fehlverhalten eines Accounts kann auch der zu diesem Account einladende Account haftbar gemacht werden. Im Individualfall auch die gesamte Accountreihe.
@@ -67,9 +68,7 @@ Gerichtshof (8)
 Klauseln (9)
 ------------
 
-* Mit der Registrierung werden die Regeln automatisch akzeptiert.
+* Mit der Registrierung werden die Regeln bewusst und aktiv akzeptiert.
 * Die Spielregeln erheben keinen Anspruch auf Vollständigkeit und werden bei Bedarf erweitert/geändert. Diese Änderungen werden im Changelog bekannt gegeben.
-* Aktionen eines Spielers, die nicht direkt gegen bestehende Regeln verstoßen, können trotzdem geahndet werden.
-* Bei Fragen zu den Spielregeln kann man sich bei den Admins (Wolverine, Hux) erkundigen.
-
-
+* Aktionen eines/einer Spielers/Spielerin, die nicht direkt gegen bestehende Regeln verstoßen, können trotzdem geahndet werden.
+* Bei Fragen zu den Spielregeln kann man sich bei den dafür zuständigen Teammitgliedern (Im Forum: Hux, Corbec, iceman) erkundigen.
