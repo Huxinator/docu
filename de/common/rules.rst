@@ -50,7 +50,7 @@ Netiquette (5)
 Fairplay (6)
 ------------
 
-* Neue Spieler sollten das Recht bekommen, sich wie jeder andere an das Spiel zu gewöhnen und seinen Account aufbauen zu können. Ungerechtfertigte Angriffe (aber auch Erpressungsversuche, bestehlen ("farmen"), etc) können zur Löschung führen.
+* Neue Spieler sollten das Recht bekommen, sich wie jeder andere an das Spiel zu gewöhnen und den eigenen Account aufbauen zu können. Ungerechtfertigte Angriffe (aber auch Erpressungsversuche, bestehlen ("farmen"), etc) können zur Löschung führen.
 * Es sollte auch vermieden werden, Spieler aus dem Spiel zu "ekeln", sprich Ihnen den Spielspaß durch periodische Angriffe dauerhaft zu zerstören. Dies gilt nicht, wenn betreffende Spieler durch ihr Auftreten diese Aktionen provozieren. Hier wird die Spielleitung Einzelfallprüfungen vornehmen
 
 
